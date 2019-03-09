@@ -2,7 +2,7 @@ package com.krishna.restwsa.model;
 
 import javax.xml.bind.annotation.XmlRootElement;
 
-@XmlRootElement(name="student")
+@XmlRootElement(name="Student")
 public class Student {
 	private long id;
 	private String name;
